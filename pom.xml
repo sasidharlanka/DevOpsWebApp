@@ -128,20 +128,7 @@
 		</snapshotRepository>
 	</distributionManagement>
 	<profiles>
-		<profile>
-			<id>sonar</id>
-			<activation>
-				<activeByDefault>false</activeByDefault>
-			</activation>
-			<properties>
-				<sonar.jdbc.url>jdbc:postgresql://18.217.28.35/sonar</sonar.jdbc.url>
-				<sonar.jdbc.driver>org.postgresql.Driver</sonar.jdbc.driver>
-				<sonar.jdbc.username>sonar</sonar.jdbc.username>
-				<sonar.jdbc.password>sonar</sonar.jdbc.password>
-				<!-- SERVER ON A REMOTE HOST -->
-				<sonar.host.url>http://18.217.28.35:9000</sonar.host.url>
-			</properties>
-		</profile>
+		
 		<profile>
 			<id>jacoco</id>
 			<!-- https://www.jacoco.org/jacoco/ -->
