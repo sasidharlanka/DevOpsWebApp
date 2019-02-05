@@ -99,8 +99,9 @@
 			</plugin> -->
 			<plugin>
 				   <groupId>org.jboss.as.plugins</groupId>
-				   <artifactId>jboss-as-maven-plugin</artifactId>
-				   <version>7.5.Final</version>
+        				<artifactId>jboss-as-maven-plugin</artifactId>
+        				<version>7.9.Final</version>
+        				<inherited>true</inherited>
 				   <configuration>
 				      <hostname>localhost</hostname>
 				      <port>10290</port>
