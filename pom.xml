@@ -103,8 +103,9 @@
         				<version>7.9.Final</version>
         				<inherited>true</inherited>
 				   <configuration>
-				      <hostname>localhost</hostname>
-				      <port>8380</port>
+					   <name>DevOpsWebApp-1.0.0-SNAPSHOT.war</name>
+				      <hostname>10.88.153.23</hostname>
+				      <port>10290</port>
 				      <username>admin</username>
 				      <password>India123$</password>
 					<timeout>30000</timeout>
