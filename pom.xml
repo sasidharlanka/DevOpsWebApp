@@ -97,7 +97,7 @@
 					<password>s3cret</password>
 				</configuration>
 			</plugin> -->
-			<!-- <plugin>
+			<plugin>
 				   <groupId>org.jboss.as.plugins</groupId>
         				<artifactId>jboss-as-maven-plugin</artifactId>
         				<version>7.9.Final</version>
@@ -109,7 +109,7 @@
 				      <password>India123$</password>
 					<timeout>30000</timeout>
 				   </configuration>
-			</plugin> -->
+			</plugin>
 		</plugins>
 	</build>
 	
