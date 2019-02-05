@@ -97,6 +97,17 @@
 					<password>s3cret</password>
 				</configuration>
 			</plugin>
+			<plugin>
+				   <groupId>org.jboss.as.plugins</groupId>
+				   <artifactId>jboss-as-maven-plugin</artifactId>
+				   <version>7.5.Final</version>
+				   <configuration>
+				      <hostname>${hostname}</hostname>
+				      <port>10290</port>
+				      <username>admin</username>
+				      <password>India123$</password>
+				   </configuration>
+			</plugin>
 		</plugins>
 	</build>
 	
