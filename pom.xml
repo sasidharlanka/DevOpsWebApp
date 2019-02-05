@@ -104,8 +104,8 @@
         				<inherited>true</inherited>
 				   <configuration>
 					   <name>DevOpsWebApp-1.0.0-SNAPSHOT.war</name>
-				      <hostname>localhost</hostname>
-				      <port>8380</port>
+				      <hostname>127.0.0.1</hostname>
+				      <port>10290</port>
 				      <username>admin</username>
 				      <password>India123$</password>
 					<timeout>30000</timeout>
