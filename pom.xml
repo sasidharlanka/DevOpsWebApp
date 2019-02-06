@@ -102,9 +102,9 @@
 				   <artifactId>jboss-as-maven-plugin</artifactId>
 				   <version>7.5.Final</version>
 				   <configuration>
-				      <hostname>127.0.0.1</hostname>
+				      <hostname>10.88.152.11</hostname>
 				      <port>9990</port>
-				      <username>saslanka</username>
+				      <username>slanka</username>
 				      <password>India123$</password>
 				   </configuration>
 				</plugin>
