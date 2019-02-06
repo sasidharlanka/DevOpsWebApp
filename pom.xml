@@ -103,8 +103,8 @@
 			      <version>1.1.0.Final</version>
 					    <configuration>
 								<force>true</force>
-								<hostname>localhost</hostname>
-								<username>saslanka</username>
+								<hostname>10.88.152.11</hostname>
+								<username>slanka</username>
 								<password>India123$</password>
 								<port>9990</port>
 								<name>${project.artifactId}-${project.version}.war</name>
