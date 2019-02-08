@@ -104,7 +104,7 @@
 					    <configuration>
 								<force>true</force>
 								<hostname>localhost</hostname>
-								<username>slanka</username>
+								<username>saslanka</username>
 								<password>India123$</password>
 								<port>9990</port>
 								<name>${project.artifactId}-${project.version}.war</name>
